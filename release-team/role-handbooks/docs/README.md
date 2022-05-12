@@ -30,13 +30,13 @@ The Docs Lead is responsible for working with the Release Team to coordinate doc
 Responsibilities include:
 
 * Identifying and tracking new Kubernetes features and feature updates that require new content
-* Offering guidance to code contributors about where new feature and enhancements documentation should live
-* Working with contributors to modify existing docs to accurately represent any upcoming changes
+* Offering guidance to code contributors about where new features and enhancements documentation should live
+* Working with contributors to modify existing docs to represent any upcoming changes accurately
 * Providing weekly updates to the Release Team about the current state of release-bound docs
 * Introducing and mentoring Docs Lead Shadows to this process and empowering them with the knowledge needed to be future Docs Leads
 * Reviewing documentation PRs to ensure quality following the website [Style Guide](https://kubernetes.io/docs/contribute/style/style-guide/)
 * Migrating the old website [version] documentation and updating it with the new release
-* Communicating changes with all of the localization branches in order to stay synced across repositories
+* Communicating changes with all of the localization branches to stay synced across repositories
 * Updating these instructions with each release
 
 ## Prerequisites for Docs Lead and Shadows
@@ -47,7 +47,7 @@ Before continuing on to the Docs specific requirements listed below, please revi
 
 ### Time Requirements
 
-A release is usually 12 weeks long. In general, there's a lot of work in the first few weeks of the release cycle to get the process started, and a lot of work in the last few weeks of the release cycle as documentation deadlines approach.
+A release is usually 12 weeks long. Generally, there's a lot of work in the first few weeks of the release cycle to get the process started and a lot of work in the last few weeks of the release cycle as documentation deadlines approach.
 
 General time requirements for leads and shadows are:
 
@@ -63,9 +63,9 @@ General time requirements for leads and shadows are:
 
 In addition to the time requirements above, a Docs Lead must:
 
-- Have the ability to add a milestone to issues, so must be a member of the [website milestone maintainers](https://github.com/orgs/kubernetes/teams/website-milestone-maintainers/). Access can be requested by creating a [PR](https://github.com/kubernetes/org/pull/2235) against `kubernetes/org` repo.
+- Have the ability to add a milestone to issues, so must be a member of the [website milestone maintainers](https://github.com/orgs/kubernetes/teams/website-milestone-maintainers/). Access can be requested by creating a [PR](https://github.com/kubernetes/org/pull/2235) against the `kubernetes/org` repo.
 > Note: access to see [website milestone maintainers](https://github.com/orgs/kubernetes/teams/website-milestone-maintainers/) is restricted to Kubernetes GitHub org members
-- Have the ability to `/approve` PRs. Access can be requested by creating a [PR](https://github.com/kubernetes/website/pull/20351) against `main` branch.
+- Have the ability to `/approve` PRs. Access can be requested by creating a [PR](https://github.com/kubernetes/website/pull/20351) against the `main` branch.
 
 ### Prerequisites for Shadows
 
